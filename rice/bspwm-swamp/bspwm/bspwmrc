@@ -46,3 +46,4 @@ killall -q dunst; dunst -conf ~/.config/dunst/dunstrc &
 DISPLAY=:0 feh --bg-scale --randomize ~/Pictures/Wallpapers/* 
 
 
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
